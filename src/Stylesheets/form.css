@@ -1,0 +1,11 @@
+form {
+    width: 600px;
+    margin-bottom: 4px;
+    display: none;
+}
+
+form > input {
+    width: 110px;
+    outline: none;
+    margin: 0;
+}
